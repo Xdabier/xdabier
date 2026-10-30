@@ -77,9 +77,11 @@ Platform guides: [Lovable](https://badii.studio/lovable) · [Bolt](https://badii
 
 <p>
   <a href="https://www.linkedin.com/in/badiiboutar"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/badii_studio"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=E8E4DF" alt="X"></a>
   <a href="https://dev.to/badii_studio"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=E8E4DF" alt="dev.to"></a>
   <a href="https://badii-studio.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=E8E4DF" alt="Hashnode"></a>
   <a href="https://medium.com/@bbadii"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=E8E4DF" alt="Medium"></a>
+  <a href="https://www.indiehackers.com/BadiiBoutar"><img src="https://img.shields.io/badge/Indie_Hackers-0A0A0A?style=for-the-badge&logo=indiehackers&logoColor=E8E4DF" alt="Indie Hackers"></a>
   <a href="https://badii.studio/guides"><img src="https://img.shields.io/badge/Guides-0A0A0A?style=for-the-badge" alt="Guides on badii.studio"></a>
 </p>
 
