@@ -1,5 +1,5 @@
 <a href="https://badii.studio">
-  <img src="assets/hero.png" alt="badii.studio: from almost works to launched. AI-built apps, secured, finished and launched, at a fixed price." width="100%">
+  <img src="assets/hero.svg" alt="badii.studio: from almost works to launched. A black bear drawn in animated ASCII art, next to the headline. Secured, finished, launched, at a fixed price." width="100%">
 </a>
 
 <p>
