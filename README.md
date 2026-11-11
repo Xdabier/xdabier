@@ -84,6 +84,8 @@ For AI-built apps:
 - [Why isn't my Stripe webhook updating Supabase?](https://badii.studio/stripe-webhook-not-updating-supabase)
 - [Who can fix my Lovable app before launch?](https://badii.studio/lovable)
 
+The three takeover checklists, ready to copy into your own repo: **[codebase-takeover-checklists](https://github.com/Xdabier/codebase-takeover-checklists)**
+
 All guides: **[badii.studio/playbook](https://badii.studio/playbook)**
 
 ### Find me
