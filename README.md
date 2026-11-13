@@ -67,6 +67,8 @@ The Trial is an audit first: findings ranked by risk in the first 5 business day
 
 Want it running without the setup? I launch it, migrate your Shopify or WooCommerce store and run it for you, on the same monthly plans.
 
+**[NCDSS](https://github.com/Xdabier/ncdss)** is my open-source triage and decision support app for emergency rooms: ABCDE triage, NEWS, GCS and qSOFA scores, and AI analysis that runs offline on a local model. Electron, React and SQLite. MIT licensed.
+
 ### Writing
 
 For founders with a product and no developer:
